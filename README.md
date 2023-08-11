@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Fernandes Joaquin</h1>
 <h3 align="center">Back-End developer || C# | .NET | JS |</h3>
-# 💫 About Me:
+# 💫 Sobre Mi:
 Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN FRA (Actualmente cursando 2 año).<br>También soy autodidacta en lo que es el estudio y estoy haciendo un curso con Santander, para volverme un Desarrollador Web Fullstack.<br>Estoy empezando a incursionar en el mundo de los datos, haciendo un curso de Google de Data analytics
 
 
