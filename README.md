@@ -19,6 +19,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jokkko&icon=8&color=0)](https://visitcount.itsvg.in)
 
----
-
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
