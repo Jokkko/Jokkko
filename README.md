@@ -1,9 +1,9 @@
 <h1 align="center">Hola! Soy Fernandes Joaquin</h1>
-<h3 align="center">Back-End developer || C# | .NET | JS |</h3>
+<h3 align="center">Back-End developer | C# | .NET </h3>
 
 ## 💫 Sobre Mi: <br>
 
-<p> Soy estudiante de la Tecnicatura Universitaria en Programación en la UTN FRA (Actualmente cursando 2 año).<br>También soy autodidacta en lo que es el estudio y estoy haciendo un curso con Santander, para volverme un Desarrollador Web Fullstack.<br>Estoy empezando a incursionar en el mundo de los datos, haciendo un curso de Google de Data analytics </p>
+<p> Curse la Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias) y actualmente estudio, la Licenciatura en Gestion IT de UADE, gracias a una beca otorgada por la Fundacion Pescar.<br> Trabajo actualmente como backend dev con .NET y C# para SMS Sudamerica </p>
 
 
 ## 🌐 Redes:
