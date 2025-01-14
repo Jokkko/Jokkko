@@ -3,7 +3,7 @@
 
 ## 💫 Sobre Mi: <br>
 
-<p> Curse la Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias) y actualmente estudio, la Licenciatura en Gestion IT de UADE.<br> Trabajo actualmente como backend dev con .NET y C# para SMS Sudamerica </p>
+  <p> Curse la Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias) y actualmente estudio, la Licenciatura en Gestion IT de UADE.<br> Trabajo actualmente como Desarrollador JR con .NET y C# para CartaSur </p>
 
 
 ## 🌐 Redes:
