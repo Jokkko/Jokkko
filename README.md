@@ -3,7 +3,7 @@
 
 ## 💫 Sobre Mi: <br>
 
-  <p> Curse la Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias) y actualmente estudio, la Licenciatura en Gestion IT de UADE.<br> Trabajo actualmente como Desarrollador JR con .NET y C# para CartaSur </p>
+  <p> Curse la Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias) y actualmente estudio, la Licenciatura en Gestion IT de UADE.<br> Trabajo actualmente como Packaged App Development Associate con .NET y C# para Accenture </p>
 
 
 ## 🌐 Redes:
