@@ -3,7 +3,7 @@
 
 ## 💫 Sobre Mi: <br>
 
-  <p> Actualmente estudio, la <strong>Licenciatura en Gestion IT de UADE. (10/36 Materias)</strong> y anteriormente cursé la <strong>Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias)</strong> <br> Trabajo actualmente como <strong>Packaged App Development Associate</strong> con .NET y C# para Accenture </p>
+  <p> Actualmente estudio, la <strong>Licenciatura en Gestion IT de UADE (10/36 Materias).</strong> y anteriormente cursé la <strong>Tecnicatura Universitaria en Programación en la UTN FRA (11/20 Materias)</strong> <br> Trabajo actualmente como <strong>Packaged App Development Associate</strong> con .NET y C# para Accenture </p>
 
 
 ## 🌐 Redes:
